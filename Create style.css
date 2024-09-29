@@ -1,0 +1,22 @@
+header{
+    background-color: orange;
+    text-align: center;
+}
+footer{
+    background-color:olive;
+}
+main{
+      background-image: linear-gradient(orange,olive);
+}
+body{
+      background-image: linear-gradient(orange,olive);
+}header img{ width: 200px;
+    height: 200px 
+  font-size: 20px; 
+ 
+}
+main img{ width: 70px;
+    height: 70px 
+  font-size: 20px; 
+ 
+}
